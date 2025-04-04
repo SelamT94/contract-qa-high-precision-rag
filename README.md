@@ -69,7 +69,7 @@ project_root/
 #### 1. Clone this repo
 
 ```
-git clone git@github.com:hillaryke/contract-qa-high-precision-rag.git
+git clone git@github.com:selamt94/contract-qa-high-precision-rag.git
 cd contract-qa-high-precision-rag
 ```
 
